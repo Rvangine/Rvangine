@@ -2,6 +2,9 @@
 
 <h2>👨‍💻 IT / Desktop Support Projects:</h2>
 
+<h2> Networking / CCNA Labs:</h2>
+- [Basic Lab Config](https://www.youtube.com/watch?v=a83ASGn_V_s)
+
 
 <h2> 🤳 Connect with me:</h2>
 
