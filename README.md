@@ -1,9 +1,9 @@
-<h1>Hi, I'm Richard! <br/><a href="https://github.com/joshmadakor1">Desktop Specialist</a>, <a href="https://www.linkedin.com/in/joshmadakor/">IT Professional</a>, <a href="https://www.youtube.com/@ParlourBytes">YouTuber</a></h1>
+<h1>Hi, I'm Richard! <br/><a href="https://github.com/rvangine">Desktop Specialist</a>, <a href="https://www.linkedin.com/in/rvangine/">IT Professional</a>, <a href="https://www.youtube.com/@ParlourBytes">YouTuber</a></h1>
 
-<h2>👨‍💻 IT / Desktop Support Projects:</h2>
+<h2>👨‍💻 IT / Desktop Support Labs:</h2>
 
 <h2> Networking / CCNA Labs:</h2>
-- [Basic Lab Config](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- Basic Lab Config (https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 
 <h2> 🤳 Connect with me:</h2>
