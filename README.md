@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT / Desktop Support Labs:</h2>
  - Coming Soon
 <h2> Networking / CCNA Labs:</h2>
--  <br/><a href="https://www.youtube.com/watch?v=aKpTEjCHZ68">Basic Packet Tracer Lab Config</a>
+- <br/><a href="https://www.youtube.com/watch?v=aKpTEjCHZ68">Basic Packet Tracer Lab Config</a>
 
 
 <h2> 🤳 Connect with me:</h2>
