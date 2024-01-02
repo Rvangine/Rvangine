@@ -30,7 +30,15 @@
 
 <h2> Networking / CCNA Labs:🔌</h2>
 
-<br/><a href="https://www.youtube.com/watch?v=aKpTEjCHZ68"> 🖥 Basic Packet Tracer Lab Config</a>
+<br/><a href="https://www.youtube.com/watch?v=aKpTEjCHZ68"> Router Configuration and Network Setup </a>
+
+- Configured a new router, establishing it as the gateway, utilizing Console Terminal (PC-PT) for network administration tasks.
+- Set the hostname to "RanetA" for identification within the network.
+- Implemented security measures by setting up enable secret, console, and telnet passwords.
+- Configured interface Fastethernet 0/0 to the designated network address.
+- Assigned interface Fastethernet 0/1 to a specified network address range.
+- Enabled both Fastethernet 0/0 and 0/1 interfaces to facilitate network connectivity.
+- Conducted comprehensive testing to ensure network functionality, including ICMP pinging and Telnet connectivity validation between Ranet PC and RanetA router.
 
 <h2> Azure Cloud ☁ Labs: </h2>
 
