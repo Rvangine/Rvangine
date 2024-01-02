@@ -1,9 +1,9 @@
-<h1>Hi, I'm Richard! <br/><a href="https://github.com/rvangine">Desktop & Network Specialist</a>, <a href="https://www.linkedin.com/in/rvangine/">IT Enthusiast</a>, <a href="https://www.youtube.com/@ParlourBytes">YouTuber</a></h1>
+<h1>Hi, I'm Richard! <br/><a href="https://www.linkedin.com/in/rvangine/">Desktop & Network Specialist</a>, <a href="https://github.com/rvangine">IT Enthusiast</a>, <a href="https://www.youtube.com/@ParlourBytes">YouTuber</a></h1>
 
 <h2>👨‍💻 IT / Desktop Support Labs:</h2>
  - Coming Soon
 <h2> Networking / CCNA Labs:</h2>
-- Basic Lab Config (https://www.youtube.com/watch?v=aKpTEjCHZ68)
+-  <br/><a href="https://www.youtube.com/watch?v=aKpTEjCHZ68">Basic Packet Tracer Lab Config</a>
 
 
 <h2> 🤳 Connect with me:</h2>
