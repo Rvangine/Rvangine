@@ -42,6 +42,13 @@
 - Carefully tailored network security by implementing Network Security Groups (NSGs) for inbound traffic, deploying Layer 4 firewalls to allow comprehensive traffic management and ensure secure communication.
 - Methodically documented the Azure subscription details, VM configurations, and network security settings for ongoing reference and management.
 
+<strong> Windows Server Configuration and SQL Server Installation for Vulnerability Testing </strong>
+
+- Configured a Windows-based Virtual Machine within an Azure environment for vulnerability testing and SQL Server deployment. 
+- Disabled Windows Firewall to simulate an open environment for testing purposes. Installed SQL Server Evaluation, adopting default login credentials and SQL Server Management Studio (SSMS), enhancing database management capabilities.
+- Enabled SQL logging for integration with Windows Event Viewer, ensuring comprehensive monitoring and diagnostic capabilities.
+- Conducted connectivity tests by pinging and establishing SSH login to the Ubuntu-based Virtual Machine ("linux-vm"), validating cross-platform interaction within the cloud-based environment.
+
 
 
 <h2> 🤳 Connect with me:</h2>
