@@ -57,7 +57,14 @@
 - Enabled SQL logging for integration with Windows Event Viewer, ensuring comprehensive monitoring and diagnostic capabilities.
 - Conducted connectivity tests by pinging and establishing SSH login to the Ubuntu-based Virtual Machine ("linux-vm"), validating cross-platform interaction within the cloud-based environment.
 
+<strong> Log Analytics Workspace and Azure Sentinel Integration </strong>
 
+- Created a Log Analytics Workspace named LAW-Cyber-Lab-0x, serving as the central log aggregator for data analysis and monitoring.
+- Configured Azure Sentinel and established a connection with the Log Analytics Workspace for seamless data ingestion and analysis.
+- Set up a geoip watchlist within Azure Sentinel, utilizing a local file as the data source containing approximately 27,000 records.
+- Specified watchlist parameters including Name/Alias (geoip), Source type (Local File), and Search Key (network).
+- Monitored the upload and synchronization process to ensure successful data transfer into the Log Analytics Workspace.
+- Verified data integration by querying _GetWatchlist("geoip") within the Log Analytics Workspace, confirming proper data retrieval and utilization within Azure Sentinel for enhanced threat detection and cybersecurity monitoring.
 
 <h2> 🤳 Connect with me:</h2>
 
