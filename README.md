@@ -30,6 +30,18 @@
 
 <h2> Networking / CCNA Labs:🔌</h2>
 
+<a href="//imgur.com/a/383tMzQ">Basic Device Security</a></blockquote>
+- Set host names for router and switch using the 'host name' command in global configuration mode.
+- Implement an unencrypted 'enable password' (CCNA) for privileged exec mode access.
+- Test the new enable password by accessing privileged exec mode.
+- Review the unencrypted password in the running configuration with 'show running config'.
+- Activate password encryption using 'service password encryption' for security.
+- Confirm password encryption by viewing passwords in the running configuration.
+- Enhance security using 'enable secret' (Cisco) with MD5 encryption.
+- Verify that only the 'enable secret' password allows access to privileged exec mode.
+- Observe both encrypted passwords in running configuration to ensure effective encryption.
+- Save configuration changes from running to startup configuration.
+  
 <br/><a href="https://www.youtube.com/watch?v=aKpTEjCHZ68"> Router Configuration and Network Setup </a>
 
 - Configured a new router, establishing it as the gateway, utilizing Console Terminal (PC-PT) for network administration tasks.
