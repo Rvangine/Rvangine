@@ -41,6 +41,15 @@
 - Verify that only the 'enable secret' password allows access to privileged exec mode.
 - Observe both encrypted passwords in running configuration to ensure effective encryption.
 - Save configuration changes from running to startup configuration.
+
+<a href="//imgur.com/a/wqSoL2h">Configuring and Testing Network Connectivity</a></blockquote>
+- Configured R1's hostname for identification and management.
+- Viewed R1's interfaces, IP addresses, status, etc., using a relevant 'show' command.
+- Assigned and enable IP addresses on R1's interfaces with provided IPv4 address and subnetmasks, adding appropriate interface descriptions.
+- Verified R1's interface configurations with a 'show' command post-configuration.
+- Checked the running config to confirm changes, and save the configuration.
+- Set up IP addresses for PC1, PC2, and PC3.
+- Tested connectivity by pinging from PC1 to PC2 and PC3.
   
 <br/><a href="https://www.youtube.com/watch?v=aKpTEjCHZ68"> Router Configuration and Network Setup </a>
 
