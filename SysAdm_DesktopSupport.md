@@ -19,6 +19,8 @@
 
 - Established a robust Active Directory (AD) domain infrastructure utilizing Server Manager, configuring core domain services and policies to ensure a secure and efficient network environment.
 
+<img src="https://i.imgur.com/NTAdkVg.png" alt="Promoting Server to DC">
+
 - Implemented PowerShell scripting to automate user and group creation processes within the AD, optimizing administrative workflows and ensuring consistent naming conventions and security settings. Rigorously tested the domain functionality by seamlessly joining desktop systems to the domain controller using PowerShell-generated Windows profiles. 
 
 - Validated user access to designated resources provisioned via security groups, confirming precise access control and streamlined resource allocation based on defined permissions. 
