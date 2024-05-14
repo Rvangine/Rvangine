@@ -1,3 +1,19 @@
+<strong> Integrate On-Premises ADDS with Azure Using Entra ID Connect </strong>
+
+![AddingDomaintoAZ](https://github.com/Rvangine/Rvangine/assets/99094300/22d82ef9-d33b-41dc-a28f-ce0981fd6929)
+
+- Downloaded Azure AD Connect from the Microsoft website and installed it on a dedicated server.
+Configure Azure AD Connect:
+
+- Configured the user sign-in options, choosing between Password Hash Synchronization, Pass-through Authentication, or Federation with AD FS.
+
+- Finalized the settings, started the initial synchronization, and monitored the process through Azure AD Connect and the Azure portal.
+Verify and Troubleshoot:
+
+- Verified that accounts were synced, checked synchronization logs, and used Azure AD Connect Health for troubleshooting any issues.
+  
+![AddingDomaintoAZ3](https://github.com/Rvangine/Rvangine/assets/99094300/040735c4-20ed-436a-a939-6c1532bdfed9)
+
 <strong> Azure Cloud Infrastructure Setup and Virtual Machine Deployment </strong>
 
 - Orchestrated the setup of an Azure tenant, establishing a robust subscription and tenant structure to facilitate cloud-based operations.
